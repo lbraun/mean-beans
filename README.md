@@ -1,4 +1,6 @@
-# MeanContactlistAngular2
+# MEAN Contact List (Angular 2)
+
+An app based on Heroku's [Create a Web App and RESTful API Server Using the MEAN Stack](https://devcenter.heroku.com/articles/mean-apps-restful-api) tutorial.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.5.
 
